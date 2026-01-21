@@ -15,7 +15,7 @@ The objective of this project is to support **early warning and risk awareness**
 ## 🚀 Live Demo
 
 🔗 **Streamlit Cloud App:**
-`[Add your deployed Streamlit app link here]`
+https://cloudburst-prediction-hp-jalrakshak.streamlit.app
 
 ---
 
