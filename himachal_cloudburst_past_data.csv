@@ -94,9 +94,9 @@ Date,Station_Name,District,Rainfall_mm,Rainfall_Category,Associated_Event,Casual
 2023-08-14,PANDOH,Mandi,178.0,Very Heavy,"Floods and Heavy Rain",123,56-64,6-9,28.1-33.0,30.1-35.3
 2023-08-23,DHARAMPUR,Solan,162.4,Very Heavy,"Floods and Heavy Rain",123,48-55,14-16,33.1-39.0,30.1-35.3
 2023-08-23,KANDAGHAT,Solan,159.0,Very Heavy,"Floods and Heavy Rain",123,48-55,14-16,33.1-39.0,30.1-35.3
-2s23-08-23,KASAULI,Solan,148.0,Very Heavy,"Floods and Heavy Rain",123,48-55,14-16,33.1-39.0,30.1-35.3
+2023-08-23,KASAULI,Solan,148.0,Very Heavy,"Floods and Heavy Rain",123,48-55,14-16,33.1-39.0,30.1-35.3
 2023-08-23,BANGANA F,Una,151.3,Very Heavy,"Floods and Heavy Rain",123,32-39,10-13,11.4-17.0,26.2-30.0
 2023-08-23,BANGANA R,Una,150.4,Very Heavy,"Floods and Heavy Rain",123,32-39,10-13,11.4-17.0,26.2-30.0
-2023-08-24,JOGINDARNAGAR,Mandi,154.0,Very Heavy,,,,56-64,6-9,28.1-33.0,30.1-35.3
+2023-08-24,JOGINDARNAGAR,Mandi,154.0,Very Heavy,,,56-64,6-9,28.1-33.0,30.1-35.3
 2023-09-15,,Kangra,,,Lightning,2,56-64,17-20,22.1-28.0,45.1-49.1
 2023-09-19,AMB,Una,147.0,Very Heavy,,,32-39,10-13,11.4-17.0,26.2-30.0
